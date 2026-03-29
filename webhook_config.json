@@ -1,0 +1,25 @@
+{
+  "url": "https://xz.wps.cn/api/v1/webhook/send?key=ed4c966140c38994d617fa76ec0c1a50",
+  "platform": "wps",
+  "msg_type": "text",
+  "text_content": "波娃已经穿上制服等着了",
+  "link_title": "",
+  "link_desc": "",
+  "link_url": "",
+  "card_title": "",
+  "card_content": "",
+  "headers": "{\"Content-Type\": \"application/json\"}",
+  "use_proxy": false,
+  "http_proxy": "",
+  "https_proxy": "",
+  "schedule_enabled": false,
+  "schedule_times": "07:00",
+  "schedule_type": "image",
+  "image_path": "C:/Users/Lenovo/Downloads/itongweiplus20251220-185528.jpeg",
+  "at_favorites": [
+    {
+      "user_id": "1604137871",
+      "name": "李杨"
+    }
+  ]
+}
